@@ -13,6 +13,9 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
 </div>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzg2eTd2MzZ0bW5rZmkyY3UzM3VzaWE3dWNkb3E2MnhmdzJ3MmVndCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SS8CV2rQdlYNLtBCiF/giphy.gif" width="200px" height="200px">
+
 ##
 
 <div align="center"><br>
